@@ -36,7 +36,7 @@ Proceso EstructurasCondicionales
 			Escribir "Eres menor de edad. No tienes permitido el acceso.";
 		FinSi
 		
-	//Caso 3: Según (swithc-case)
+	//Caso 3: Según (switch-case)
 		Definir opcion Como Entero;
 		Definir num1, num2 Como Real;
 		
