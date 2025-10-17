@@ -1,5 +1,5 @@
 Proceso Saludo
-	// Defino las variables
+	// Defino las variables, en este caso solo hay una
 	Definir nombre Como Caracter;
 	 
 	//Pido al usuario su nombre
